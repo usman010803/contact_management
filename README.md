@@ -50,6 +50,4 @@ Contributions to the Contact Management project are welcome! If you encounter an
 
 ### License
 
-This project is licensed under the [MIT License](LICENSE).
-
 Feel free to customize the above template according to your specific project requirements. Let me know if there's anything else I can assist you with!
