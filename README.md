@@ -16,34 +16,43 @@ This repository contains a contact management application that allows you to eff
 
 ### Installation
 
-To get started with the Contact Management application, follow these steps:
+Here's a simple process that users can follow to open and run your project by downloading the zip file:
 
-1. Clone the repository using the following command:
+1. Visit the GitHub repository: [https://github.com/usman010803/contact_management](https://github.com/usman010803/contact_management)
+
+2. Click on the "Code" button located near the top-right corner of the repository page.
+
+3. Select the "Download ZIP" option to download the project as a compressed zip file.
+
+4. Extract the downloaded zip file to a location of your choice on your computer.
+
+5. Open your preferred command-line interface (e.g., Terminal, Command Prompt).
+
+6. Navigate to the extracted project directory using the `cd` command. For example:
 
    ```bash
-   git clone https://github.com/usman010803/contact_management.git
+   cd path/to/contact_management
    ```
 
-2. Navigate to the project directory:
-
-   ```bash
-   cd contact_management
-   ```
-
-3. Install the required dependencies using the package manager of your choice. For example, using npm:
+7. Install the required dependencies by running the following command:
 
    ```bash
    npm install
    ```
 
-4. Start the application:
+   Note: Ensure that you have Node.js and npm (Node Package Manager) installed on your computer.
+
+8. Start the application using the following command:
 
    ```bash
    npm start
    ```
 
-5. Open your web browser and visit [http://localhost:3000](http://localhost:3000) to access the Contact Management application.
+9. Open your web browser and visit [http://localhost:3000](http://localhost:3000) to access the Contact Management application.
 
+With these steps, users should be able to download the project as a zip file, extract it, install dependencies, and run the application locally on their computers.
+
+Please let me know if you need any further assistance!
 ### Contributing
 
 Contributions to the Contact Management project are welcome! If you encounter any bugs, have suggestions for improvements, or would like to add new features, please feel free to submit an issue or a pull request. We appreciate your valuable input!
